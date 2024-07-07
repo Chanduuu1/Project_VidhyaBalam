@@ -25,49 +25,64 @@
     height: 3.5rem;
     padding: 1rem;
   }
+  .quote-class {
+    display: flex;
+    align-items: center;
+    height: 150px;
+    width: 500px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    justify-content: center;
+  }
+  .super-class {
+    display: flex;
+    justify-content: center;
+  }
 </style>
 
 <% layout("/layouts/boilerplate") %>
 <div id="filters">
   <div class="filter">
-    <div><i class="fa-solid fa-fire"></i></div>
-    <p>trending</p>
+    <div><i class="fa-solid fa-atom"></i></div>
+    <p>IIT-JEE</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-bed"></i></div>
-    <p>Room</p>
+    <div><i class="fa-solid fa-capsules"></i></div>
+    <p>NEET</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-tree-city"></i></div>
-    <p>Iconic Cities</p>
+    <div><i class="fa-solid fa-person-military-rifle"></i></div>
+    <p>UPSC</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-mountain"></i></div>
-    <p>Mountains</p>
+    <div><i class="fa-solid fa-gears"></i></div>
+    <p>GATE</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-tree-city"></i></div>
-    <p>Iconic Cities</p>
+    <div><i class="fa-solid fa-1"></i><i class="fa-solid fa-2"></i> S</div>
+    <p>XII-Science</p>
   </div>
   <div class="filter">
-    <div><i class="fa-brands fa-fort-awesome"></i></div>
-    <p>castles</p>
+    <div><i class="fa-solid fa-earth-americas"></i></div>
+    <p>GRE</p>
+  </div>
+
+  <div class="filter">
+    <div><i class="fa-solid fa-rocket"></i></div>
+    <p>Engineering</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-person-swimming"></i></div>
-    <p>pool</p>
+    <div><i class="fa-solid fa-om"></i></div>
+    <p>Languages</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-person-hiking"></i></div>
-    <p>camping</p>
+    <div><i class="fa-solid fa-receipt"></i></div>
+    <p>CA</p>
   </div>
   <div class="filter">
-    <div><i class="fa-solid fa-umbrella-beach"></i></div>
-    <p>beach</p>
-  </div>
-  <div class="filter">
-    <div><i class="fa-solid fa-cow"></i></div>
-    <p>Farms</p>
+    <div><i class="fa-solid fa-1"></i><i class="fa-solid fa-2"></i> C</div>
+    <p>XII-Commerce</p>
   </div>
 
   <div class="tax-toggle">
@@ -81,6 +96,19 @@
         >Display total after taxes
       </label>
     </div>
+  </div>
+</div>
+
+<div class="super-class">
+  <div class="quote-class">
+    <p style="font-weight: 600">
+      <i
+        >Every year more than 320 million of books get recycled, but along with
+        these books, the knowledge inside them gets washed away too! Vidhya
+        Balam emphasizes the redistribution of these books so knowledge get
+        preserved!</i
+      >
+    </p>
   </div>
 </div>
 
@@ -100,7 +128,7 @@
       <div class="card-body">
         <p class="card-text">
           <b><%= listing.title %> <br /></b>
-          &#8377;<%= listing.price.toLocaleString("en-IN") %> / night
+          &#8377;<%= listing.price.toLocaleString("en-IN") %>
           <i class="tax-info">&nbsp;&nbsp;+18% GST</i>
         </p>
       </div>

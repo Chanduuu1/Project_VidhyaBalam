@@ -5,7 +5,7 @@ const sampleListings = [
       "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://preview.redd.it/z1h72ojv15s91.jpg?width=1080&crop=smart&auto=webp&s=1298e08b48ac63f1b319476bbe1d1e0054aecd98",
     },
     price: 1500,
     location: "Malibu",
@@ -21,7 +21,7 @@ const sampleListings = [
       "Stay in the heart of the city in this stylish loft apartment. Perfect for urban explorers!",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://img.etimg.com/photo/msid-98607114,imgsize-1219622/AdvancedProblemsinOrganicChemistry.jpg",
     },
     price: 1200,
     location: "New York City",
@@ -37,7 +37,7 @@ const sampleListings = [
       "Unplug and unwind in this peaceful mountain cabin. Surrounded by nature, it's a perfect place to recharge.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://img.clasf.in/2023/11/30/O-P-Tandon-chemistry-reference-book-for-IIT-JEE-20231130020929.7320310015.jpg",
     },
     price: 1000,
     location: "Aspen",
@@ -53,7 +53,7 @@ const sampleListings = [
       "Experience the charm of Tuscany in this beautifully restored villa. Explore the rolling hills and vineyards.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://m.media-amazon.com/images/I/61qRRS+85UL.jpg",
     },
     price: 2500,
     location: "Florence",
@@ -69,7 +69,7 @@ const sampleListings = [
       "Live among the treetops in this unique treehouse retreat. A true nature lover's paradise.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://cdn.shopify.com/s/files/1/0855/0619/5729/files/9789355646880.jpg?v=1714392103&width=600",
     },
     price: 800,
     location: "Portland",
@@ -85,7 +85,7 @@ const sampleListings = [
       "Step out of your door onto the sandy beach. This beachfront condo offers the ultimate relaxation.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGhvdGVsc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://qph.cf2.quoracdn.net/main-qimg-cf2482ee611bc5d2d5ae51b7ffb015fd-lq",
     },
     price: 2000,
     location: "Cancun",
@@ -101,7 +101,7 @@ const sampleListings = [
       "Spend your days fishing and kayaking on the serene lake. This cozy cabin is perfect for outdoor enthusiasts.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vdW50YWlufGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://raibookshop.com/image/cache/catalog/Upsc/IMG-20230118-WA0004-1000x1000.jpg",
     },
     price: 900,
     location: "Lake Tahoe",
@@ -117,7 +117,7 @@ const sampleListings = [
       "Indulge in luxury living with panoramic city views from this stunning penthouse apartment.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1622396481328-9b1b78cdd9fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2t5JTIwdmFjYXRpb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBeXfrdj9cdgiTXp1Mzpsf_rioXQ4voh-3RSvbvrKkt5op4_j-uRuNE5GLl2Bdn8amNAo&usqp=CAU",
     },
     price: 3500,
     location: "Los Angeles",
@@ -133,7 +133,7 @@ const sampleListings = [
       "Hit the slopes right from your doorstep in this ski-in/ski-out chalet in the Swiss Alps.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1502784444187-359ac186c5bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNreSUyMHZhY2F0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://icai-cds.org/ICAIShop/resources/productImages/Final%20Gr%20II.jpg",
     },
     price: 3000,
     location: "Verbier",
@@ -149,7 +149,7 @@ const sampleListings = [
       "Experience the thrill of the wild in a comfortable safari lodge. Witness the Great Migration up close.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fG1vdW50YWlufGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://icai-cds.org/ICAIShop/resources/productImages/Inter%20Hindi%20Gr%20I.jpg",
     },
     price: 4000,
     location: "Serengeti National Park",
@@ -165,7 +165,7 @@ const sampleListings = [
       "Stay in a piece of history in this beautifully preserved canal house in Amsterdam's iconic district.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FtcGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://qph.cf2.quoracdn.net/main-qimg-514e24405ba7610d662ac6ecb912505c-lq",
     },
     price: 1800,
     location: "Amsterdam",
@@ -181,7 +181,7 @@ const sampleListings = [
       "Have an entire island to yourself for a truly exclusive and unforgettable vacation experience.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1618140052121-39fc6db33972?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bG9kZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkJJQs5wXvWjdLiaHiX4ysQ5qWtTsWylZUFItWxS27be6-om6HE6Ln2iSy2H-ImqnTS8&usqp=CAU",
     },
     price: 10000,
     location: "Fiji",
@@ -197,7 +197,7 @@ const sampleListings = [
       "Escape to the picturesque Cotswolds in this quaint and charming cottage with a thatched roof.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1602088113235-229c19758e9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmVhY2glMjB2YWNhdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://www.clankart.com/user-uploads/advert/CA_Final_course_study_books1706551448166.jpg",
     },
     price: 1200,
     location: "Cotswolds",
@@ -213,7 +213,7 @@ const sampleListings = [
       "Step back in time in this elegant historic brownstone located in the heart of Boston.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1533619239233-6280475a633a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNreSUyMHZhY2F0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://grbathla.com/wp-content/uploads/2021/01/Neet-Books.jpg",
     },
     price: 2200,
     location: "Boston",
@@ -229,7 +229,7 @@ const sampleListings = [
       "Relax on the sandy shores of Bali in this beautiful beachfront bungalow with a private pool.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1602391833977-358a52198938?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGNhbXBpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://ask.exprto.com/uploads/default/original/1X/b804ee971961f2b09de38218fd89e4237b9c76de.jpeg",
     },
     price: 1800,
     location: "Bali",
@@ -245,7 +245,7 @@ const sampleListings = [
       "Enjoy breathtaking mountain views from this cozy cabin in the Canadian Rockies.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1521401830884-6c03c1c87ebb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvZGdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://eazysale.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/01/03034000/Arihant-GATE-TUTOR-2024-Computer-Science-Information-Technology.png",
     },
     price: 1500,
     location: "Banff",
@@ -261,7 +261,7 @@ const sampleListings = [
       "Step into the glamour of the 1920s in this stylish Art Deco apartment in South Beach.",
     image: {
       filename: "listingimage",
-      url: "https://plus.unsplash.com/premium_photo-1670963964797-942df1804579?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxvZGdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://bookflow.in/wp-content/uploads/2024/03/ENGG-1-760x410.png.webp",
     },
     price: 1600,
     location: "Miami",
@@ -272,53 +272,86 @@ const sampleListings = [
     },
   },
   {
-    title: "Tropical Villa in Phuket",
+    title: "Luxury Yurt in Mongolia",
     description:
-      "Escape to a tropical paradise in this luxurious villa with a private infinity pool in Phuket.",
+      "Experience the traditional nomadic lifestyle in a luxury yurt, with modern comforts.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1470165301023-58dab8118cc9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxvZGdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      url: "https://www.acelot.in/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-20-at-4.10.40-PM.jpeg",
     },
-    price: 3000,
-    location: "Phuket",
-    country: "Thailand",
+    price: 700,
+    location: "Ulaanbaatar",
+    country: "Mongolia",
     geometry: {
       type: "Point",
-      coordinates: [98.3981, 7.8804],
+      coordinates: [106.917, 47.8864],
     },
   },
   {
-    title: "Historic Castle in Scotland",
+    title: "Eco-Friendly Tiny House",
     description:
-      "Live like royalty in this historic castle in the Scottish Highlands. Explore the rugged beauty of the area.",
+      "Reduce your carbon footprint in this eco-friendly tiny house equipped with solar panels.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1585543805890-6051f7829f98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlYWNoJTIwdmFjYXRpb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://leverageedu.com/blog/wp-content/uploads/2021/01/Book-vs-Movie.jpg",
     },
-    price: 4000,
-    location: "Scottish Highlands",
-    country: "United Kingdom",
+    price: 600,
+    location: "Portland",
+    country: "United States",
     geometry: {
       type: "Point",
-      coordinates: [-4.2026, 57.4764],
+      coordinates: [-122.6765, 45.5231],
     },
   },
   {
-    title: "Desert Oasis in Dubai",
+    title: "Palatial Riad in Marrakech",
     description:
-      "Experience luxury in the middle of the desert in this opulent oasis in Dubai with a private pool.",
+      "Live like royalty in this opulent riad, featuring intricate mosaics and a beautiful courtyard.",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1518684079-3c830dcef090?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHViYWl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+      url: "https://cdn.shopify.com/s/files/1/0855/0619/5729/files/WhatsApp_Image_2022-04-19_at_9.30.23_AM_1.jpg?v=1649758034",
     },
-    price: 5000,
-    location: "Dubai",
-    country: "United Arab Emirates",
+    price: 2800,
+    location: "Marrakech",
+    country: "Morocco",
     geometry: {
       type: "Point",
-      coordinates: [55.2708, 25.2048],
+      coordinates: [-7.9811, 31.6295],
     },
   },
+  {
+    title: "Luxury Yacht in the Mediterranean",
+    description:
+      "Sail the turquoise waters of the Mediterranean in this fully-equipped luxury yacht.",
+    image: {
+      filename: "listingimage",
+      url: "https://lh3.googleusercontent.com/p/AF1QipOsE-JuayYKoHsFM-iXGzIv2MYI6H1H5b4YVAFy=s1360-w1360-h1020",
+    },
+    price: 10000,
+    location: "Monaco",
+    country: "Monaco",
+    geometry: {
+      type: "Point",
+      coordinates: [7.4246, 43.7384],
+    },
+  },
+  {
+    title: "Traditional Ryokan in Kyoto",
+    description:
+      "Immerse yourself in Japanese culture with a stay in a traditional ryokan, complete with tatami mats and hot springs.",
+    image: {
+      filename: "listingimage",
+      url: "https://qph.cf2.quoracdn.net/main-qimg-249456d585c5f32e1f2ec4ba38ffb032.webp",
+    },
+    price: 1300,
+    location: "Kyoto",
+    country: "Japan",
+    geometry: {
+      type: "Point",
+      coordinates: [135.7681, 35.0116],
+    },
+  },
+
   {
     title: "Rustic Log Cabin in Montana",
     description:
